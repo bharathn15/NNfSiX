@@ -10,6 +10,8 @@
 #include <ctime>
 #include <random>
 
+using namespace std;
+
 using dmatrix   = std::vector< std::vector< double> > ; // dmatrix stands for dynamic matrix
 using drow      = std::vector< double > ;    // drow stands for dynamic row
 
